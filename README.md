@@ -55,8 +55,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ARVIN1006/count.svg?"  />
-</div>
 
-###
