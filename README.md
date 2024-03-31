@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ARVIN1006/ARVIN1006/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
